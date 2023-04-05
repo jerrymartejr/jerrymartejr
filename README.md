@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerrymartejr&show_icons=true&theme=radical)
 <!--
 **jerrymartejr/jerrymartejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
