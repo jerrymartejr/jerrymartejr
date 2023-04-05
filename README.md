@@ -17,6 +17,11 @@
   <span><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/></span>
 </div>
 
+Jerry Marte is a Software Engineer with a background in Civil/Structural Engineering. He is a licensed Civil Engineer and was ranked 4th out of 9,487 takers in the 2015 Civil Engineering Board Exam.
+
+Jerry's experience in the design and construction of low to high rise structures, telecom towers, and foundation systems has provided him with transferable skills that are valuable in Software Engineering. These include problem solving, logic, technical knowledge, attention to detail, project management, collaboration, and communication skills.
+
+
 
 <!--
 **jerrymartejr/jerrymartejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
