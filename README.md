@@ -16,6 +16,8 @@
   <span><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/></span>
 </div>
+<br/>
+<br/>
 
 Jerry Marte is a Software Engineer with a background in Civil/Structural Engineering. He is a licensed Civil Engineer and was ranked 4th out of 9,487 takers in the 2015 Civil Engineering Board Exam.
 
