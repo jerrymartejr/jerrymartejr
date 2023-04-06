@@ -2,10 +2,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jerrymartejr&show_icons=true&theme=radical"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrymartejr&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jerrymartejr&layout=compact"/>
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrymartejr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <span><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></span>
