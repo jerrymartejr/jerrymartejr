@@ -21,7 +21,7 @@
 
 Jerry Marte is a Software Engineer with a background in Civil/Structural Engineering. He is a licensed Civil Engineer and was ranked 4th out of 9,487 takers in the 2015 Civil Engineering Board Exam.
 
-Jerry's experience in the design and construction of low to high rise structures, telecom towers, and foundation systems has provided him with transferable skills that are valuable in Software Engineering. These include problem solving, logic, technical knowledge, attention to detail, project management, collaboration, and communication skills.
+Jerry's experience in Structural Engineering and Construction has provided him with transferable skills that are valuable in Software Engineering. These include problem solving, logic, technical knowledge, attention to detail, project management, collaboration, and communication skills.
 
 
 
